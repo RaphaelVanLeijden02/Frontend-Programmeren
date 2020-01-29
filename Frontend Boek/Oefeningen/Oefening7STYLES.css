@@ -1,0 +1,195 @@
+/* kop 1*/
+#kop1{
+    border: 1px solid black;
+    width: 100%;
+    float: left;
+    font-weight: bold;
+}
+#kleur {
+    float: left;
+    font-weight: bold;
+}
+#percentage {
+    float: left;
+    margin-left: 14px;
+    font-weight: bold;
+}
+#decimaal{
+    float: left;
+    margin-left: 70px;
+    font-weight: bold;
+}
+#hexadecimaal {
+    float: left;
+    margin-left: 30px;
+    font-weight: bold;
+}
+#kort {
+    float: left;
+    margin-left: 20px;
+    font-weight: bold;
+}
+/* kop 2*/
+#kop2 {
+    border: 1px solid black;
+    width: 100%;
+    background-color: #000000;
+    float: left;
+}
+#zwart {
+    float: left;
+    color: white;
+}
+#rgbZwart {
+    float: left;
+    background-color: #000000;
+    color: white;
+    margin-left: 12px;
+}
+#rgbZwart2 {
+    float: left;
+    background-color: #000000;
+    color: white;
+    margin-left: 43px;
+}
+#HDZwart {
+    float: left;
+    background-color: #000000;
+    color: white;
+    margin-left: 47px;
+}
+#kortZwart {
+    float: left;
+    background-color: #000000;
+    color: white;
+    margin-left: 35px;
+}
+/* kop 3*/
+#kop3 {
+    border: 1px solid black;
+    width: 100%;
+    background-color: #f00;
+    color: white;
+    float: left;
+}
+#Rood {
+    float: left;
+    color: white;
+}
+#rgbRood {
+    float: left;
+    color: white;
+    margin-left: 14px;
+}
+#rgbRood2 {
+    float: left;
+    color: white;
+    margin-left: 28px;
+}
+#HDRood{
+    float: left;
+    color: white;
+    margin-left: 30px;
+}
+#kortRood {
+    float: left;
+    color: white;
+    margin-left: 34px;
+}
+/* kop 4*/
+#kop4 {
+    border: 1px solid black;
+    width: 100%;
+    background-color: #008000;
+    color: white;
+    float: left;
+}
+#Groen {
+    float: left;
+    color: white;
+}
+#rgbGroen {
+    float: left;
+    color: white;
+    margin-left: 9px;
+}
+#rgbGroen2 {
+    float: left;
+    color: white;
+    margin-left: 27px;
+}
+#HDGroen {
+    float: left;
+    color: white;
+    margin-left: 30px;
+}
+#kortGroen {
+    float: left;
+    color: white;
+    margin-left: 34px;
+}
+/* kop 5*/
+#kop5 {
+    border: 1px solid black;
+    width: 100%;
+    background-color: #0000FF;
+    color: white;
+    float: left;
+}
+#Blauw {
+    float: left;
+    color: white;
+}
+#rgbBlauw {
+    float: left;
+    color: white;
+    margin-left: 8px;
+}
+#rgbBlauw2 {
+    float: left;
+    color: white;
+    margin-left: 27px;
+}
+#HDBlauw {
+    float: left;
+    color: white;
+    margin-left: 27px;
+}
+#kortBlauw {
+    float: left;
+    color: white;
+    margin-left: 34px;
+}
+/* kop 6*/
+#kop6 {
+    border: 1px solid black;
+    width: 100%;
+    background-color: #ffffff;
+    color: Black;
+    float: left;
+}
+#Wit {
+    float: left;
+    color: black;
+    font-weight: bold;
+}
+#rgbWit {
+    float: left;
+    color: black;
+    margin-left: 9px;
+}
+#rgbWit2 {
+    float: left;
+    color: black;
+    margin-left: 9px;
+}
+#HDWit {
+    float: left;
+    color: black;
+    margin-left: 23px;
+}
+#kortWit {
+    float: left;
+    color: black;
+    margin-left: 26px;
+}

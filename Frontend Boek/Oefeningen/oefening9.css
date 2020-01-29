@@ -1,0 +1,53 @@
+#div1 {
+    float: left;
+    color: black;
+    background-color: #fe0000;
+    width: 100%;
+}
+
+#div2 {
+    float: left;
+    color: black;
+    background-color: #FF9C00;
+    width: 100%;
+}
+
+#div3 {
+    float: left;
+    color: black;
+    background-color: #f5ff00;
+    width: 100%;
+}
+
+#div4 {
+    float: left;
+    color: black;
+    background-color: #3cf10e;
+    width: 100%;
+}
+
+#div5 {
+    float: left;
+    color: black;
+    background-color: #01ffe5;
+    width: 100%;
+}
+#div6 {
+    float: left;
+    color: black;
+    background-color: #0024FF;
+    width: 100%;
+}
+#div7 {
+    float: left;
+    color: black;
+    background-color: #c500ff;
+    width: 100%;
+}
+
+#div8 {
+    float: left;
+    color: black;
+    background-color: #ff009c;
+    width: 100%;
+}
