@@ -168,7 +168,7 @@ footer {
     width: 100%;
     padding-top: 20px;
     padding-bottom: 10px;
-    background: linear-gradient(to right, black, darkslategrey, grey, white);
+    background: linear-gradient(to right, black, grey, white);
 }
 footer img {
     margin: 0;
